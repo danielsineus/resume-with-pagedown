@@ -13,36 +13,36 @@ knit: pagedown::chrome_print
 Aside
 ================================================================================
 
-
-![Lijia Yu](avatar.jpg){width=90%}
-
+![Lijia Yu](avatar.jpg){width=100%}
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
-
-- <i class="fa fa-envelope"></i> dsineus@hotmail.com
-- <i class="fa fa-github"></i> [github.com/danielsineus](https://github.com/danielsineus)
+- <i class="fa fa-map-marked-alt"></i> West Palm Beach, Florida
 - <i class="fa fa-phone"></i> +1 561-490-9573
+- <i class="fa fa-envelope"></i> dsineus@hotmail.com
+- <i class="fa fa-globe"></i> [danielsineus.com](https://danielsineus.netlify.app)
+- <i class="fa fa-github"></i> [github.com/danielsineus](https://github.com/danielsineus)
+- <i class="fab fa-linkedin-in"></i> [linkedin.com/DanielSineus](https://www.linkedin.com/in/danielsineus/)
 - For more information, please contact me via email.
 
+Relevant Coursework {#Coursework}
+--------------------------------------------------------------------------------
+- Financial Securities valuation
+- Portfolio Management
+- Risk management  
+- Statistical and Financial Modelling
+- Optimization methods
+- Derivatives Strategies and Analysis 
 
-Skills {#skills}
 --------------------------------------------------------------------------------
 
-- taken classes in financial securities valuation, portfolio management, risk management,  statistical and financial modelling, and optimization methods.
-
-- Full experience in Accounts Payable.
-
-- Skilled in Excel and good at R and Python
-
-
-Disclaimer {#disclaimer}
+Language  Skills{#Skills}
 --------------------------------------------------------------------------------
+- Fluent in English
+- Native in French and Creole
+- Basic Proficiency in Spanish
 
-
-
-Last updated on `r Sys.Date()`.
-
+--------------------------------------------------------------------------------
 
 
 Main
@@ -53,7 +53,6 @@ Daniel Sineus {#title}
 
 ### Currently searching for a position in Finance
 
-- Looking for a position when I can create financial reports and analysis for sound investment
 - Detail-oriented, efficient, and organized professional with a passion in financial data analysis
 - Has involved in the analysis and interpretation of the financial information that corporate executives need to make sound business decisions
 - Possess strong analytical and problem solving skills with the ability to make well thought out decisions
@@ -68,7 +67,7 @@ M.Sc. in Finance
 
 Florida, USA
 
-2022
+December 2022
 
 
 ### Universite Quisqueya 
@@ -77,7 +76,7 @@ M.Sc. in Finance
 
 Port-au-Prince, Haiti
 
-2016
+June 2016
 
 ### Universite D'Etat D'Haiti 
 
@@ -85,7 +84,7 @@ B.A in Linguistics
 
 Port-au-Prince, Haiti
 
-2009
+July 2009
 
 Work Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
@@ -100,6 +99,9 @@ Florida, USA
 
 - Complete payments by receiving, processing, verifying, and reconciling invoices in GP software.
 - Respond to all vendor inquiries regarding payments
+- Create Invoices in CONCUR
+- Manage employees'travel and other expenses in CONCUR
+- Reconcile Credit Card expenses and Payments with Bank Statements
 
 ### Accounts Payable Associate
 
@@ -109,9 +111,12 @@ Florida, Port-au-Prince
 
 2021 - 2022
 
--	Match purchase orders to invoices and enter invoices into the accounting software
--	Complete payments by receiving, processing, verifying, and reconciling invoices 
--	Keep track of all payments and expenditures, including payments and purchase orders
+-	Matched purchase orders to invoices and enter invoices into the accounting software
+-	Completed payments by receiving, processing, verifying, and reconciling invoices 
+-	Kept track of all payments and expenditures, including payments and purchase orders
+- responded to all vendor inquiries regarding payments
+- Prepared 1099 for vendors
+- Resolved purchase order or payment discrepancies
 
 ### Jr. Finance Manager
 
@@ -124,33 +129,80 @@ Port-au-Prince, Haiti
 - Prepared the company’s annual budget, calculated variances from the budget and report significant issues to management
 - Analyzed financial and management reports including income statement, balance sheet, budget and variance, projection and forecast of Cash Flow
 - Created reports of trends and projections for the firm’s finances
+- Analyzed the company's performance, problematic situations and improved processes
+- Conveyed information in a meaningful way by utilizing tables, graphs, and charts
 
 
-Content Creation Experience {data-icon=chalkboard-teacher}
+ONLINE CERTIFICATION {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Introduction to R Language for Beginners.
+### Bloomberg Certification
+Economic Indicators, Fixed Income, Equities, Commodities, Options, Portfolio Management
 
-Instructor of R and Financial Data Analysis, Github.
+Online, USA
 
-Florida, USA
+December 2021
 
-2019 - Present
+### DataCamp
+
+Data Analysis with Python and R. 
+
+Online, USA
+
+December 2019
+
+### University of Pennsylvania 
+
+Fundamentals of Quantitative Modeling.
+
+Online, USA
+
+February 2017
+
+### University of Melbourne 
+
+The Language and Tools of Financial Analysis.
+Corporate Financial Decision-Making for value Creation.
+
+Online, USA
+
+February 2017
+
+### University of Oregon
+
+Critical Thinking.
+
+Online, USA
+
+March 2013
 
 
  Skills {data-icon=laptop}
 --------------------------------------------------------------------------------
 ### Computer skills 
 
-- 	Microsoft Excel including spreadsheet, pivot table, Vlookup, Hlookup for Data Analytics
+- Microsoft Excel including spreadsheet, formula creation, pivot table, Vlookup, Hlookup for Financial Modeling and Data Analytics
 -	Microsoft Office (PowerPoint and Word)
--	R, Python, and Stata for Data Analytics
+-	Knowledgeable of R, Python, and Stata for Data Analytics and Econometric modeling
 - Basic knowledge of SPSS and SQL. 
--	Knowledge of JDE Oracle as ERP system
+-	Knowledge of JDE Oracle, GP Microsoft Dynamics and SAP CONCUR as ERP system
 -	Experienced with Bloomberg, Capital IQ, and YCharts
 
-Language Skills {data-icon=language}
+Content Creation Experience {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
-Fluent in English
 
-Native in French and Creole
+### Introduction to R Language for Beginners
+
+Contents of R, Python, and Financial Data Analysis, Github.
+
+
+
+
+
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+
+Last updated on `r Sys.Date()`.
