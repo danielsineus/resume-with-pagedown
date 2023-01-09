@@ -4,6 +4,7 @@ author: Daniel Sineus
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
+    css: ['css/custom_resume.css', 'css/styles_html.css', 'resume']
     # set it to true for a self-contained HTML page but it'll take longer to render
     self_contained: false
 # uncomment this line to produce HTML and PDF in RStudio:
@@ -13,7 +14,7 @@ knit: pagedown::chrome_print
 Aside
 ================================================================================
 
-![Lijia Yu](avatar.jpg){width=100%}
+![Lijia Yu](beta_dist.png){width=100%}
 
 Contact Info {#contact}
 --------------------------------------------------------------------------------
@@ -27,7 +28,7 @@ Contact Info {#contact}
 
 Relevant Coursework {#Coursework}
 --------------------------------------------------------------------------------
-- Financial Securities valuation
+- Financial Securities Valuation
 - Portfolio Management
 - Risk management  
 - Statistical and Financial Modelling
@@ -44,6 +45,14 @@ Language  Skills{#Skills}
 
 --------------------------------------------------------------------------------
 
+Interests{#Skills}
+--------------------------------------------------------------------------------
+- Read Finance books
+- write contents on my blog Website
+- Listen to Podcasts
+- Play Soccer 
+
+
 
 Main
 ================================================================================
@@ -53,7 +62,7 @@ Daniel Sineus {#title}
 
 ### Currently searching for a position in Finance
 
-- Detail-oriented, efficient, and organized professional with a passion in financial data analysis
+- Detail-oriented, efficient, and organized professional with a passion in Financial Analysis and Valuation
 - Has involved in the analysis and interpretation of the financial information that corporate executives need to make sound business decisions
 - Possess strong analytical and problem solving skills with the ability to make well thought out decisions
 
@@ -63,16 +72,16 @@ Education {data-icon=graduation-cap data-concise=true}
 
 ### Florida Atlantic University 
 
-M.Sc. in Finance
+Master of Science in Finance
 
-Florida, USA
+Boca Raton, FL (USA)
 
 December 2022
 
 
 ### Universite Quisqueya 
 
-M.Sc. in Finance
+Bachelor of Science in Finance
 
 Port-au-Prince, Haiti
 
@@ -80,34 +89,36 @@ June 2016
 
 ### Universite D'Etat D'Haiti 
 
-B.A in Linguistics
+Bachelor of Arts in Linguistics
 
 Port-au-Prince, Haiti
 
 July 2009
+  
 
 Work Experience {data-icon=suitcase}
 --------------------------------------------------------------------------------
 
 ### Accounts Payable Associate
 
-Life's Abundance
+Life's Abundance Inc
 
 Florida, USA
 
 2022 - Present
 
 - Complete payments by receiving, processing, verifying, and reconciling invoices in GP software.
+-Code transactions to their proper GL account 
 - Respond to all vendor inquiries regarding payments
-- Create Invoices in CONCUR
+- Create Invoices and match them with Purchase orders in SAP CONCUR or/and in GP
 - Manage employees'travel and other expenses in CONCUR
-- Reconcile Credit Card expenses and Payments with Bank Statements
+- Reconcile expenses and Payments with Bank Statements
 
 ### Accounts Payable Associate
 
 Otis Elevator Inc. 
 
-Florida, Port-au-Prince
+Florida, USA
 
 2021 - 2022
 
@@ -164,7 +175,7 @@ February 2017
 The Language and Tools of Financial Analysis.
 Corporate Financial Decision-Making for value Creation.
 
-Online, USA
+Online, Australia
 
 February 2017
 
@@ -177,27 +188,32 @@ Online, USA
 March 2013
 
 
- Skills {data-icon=laptop}
+
+::: aside
+
+**Content Creator - Introduction to R Language for Beginners**
+
+All projects available in my Github
+
+
+- Contents of R & Python for Financial Data Analysis
+
+- Use Python for Portfolio optimization
+
+- Use Python for Investment Decision based on Factor Analysis
+:::
+
+
+Technical Skills {data-icon=laptop data-concise=true}
 --------------------------------------------------------------------------------
-### Computer skills 
+
+###
 
 - Microsoft Excel including spreadsheet, formula creation, pivot table, Vlookup, Hlookup for Financial Modeling and Data Analytics
--	Microsoft Office (PowerPoint and Word)
--	Knowledgeable of R, Python, and Stata for Data Analytics and Econometric modeling
+-	Knowledgeable in R, Python, and Stata for Data Analytics and Econometric modeling
 - Basic knowledge of SPSS and SQL. 
--	Knowledge of JDE Oracle, GP Microsoft Dynamics and SAP CONCUR as ERP system
+-	Knowledge of JDE Oracle, Microsoft Dynamics GP, and SAP CONCUR as ERP system
 -	Experienced with Bloomberg, Capital IQ, and YCharts
-
-Content Creation Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
-
-### Introduction to R Language for Beginners
-
-Contents of R, Python, and Financial Data Analysis, Github.
-
-
-
-
 
 
 
