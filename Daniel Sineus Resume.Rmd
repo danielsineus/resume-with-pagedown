@@ -62,7 +62,7 @@ Daniel Sineus {#title}
 
 ### Currently searching for a position in Finance
 
-- Detail-oriented, efficient, and organized professional with a passion in Financial Analysis and Valuation
+- Detail-oriented, efficient, and organized professional with a passion for Financial Analysis and Valuation
 - Has involved in the analysis and interpretation of the financial information that corporate executives need to make sound business decisions
 - Possess strong analytical and problem solving skills with the ability to make well thought out decisions
 
@@ -108,7 +108,7 @@ Florida, USA
 2022 - Present
 
 - Complete payments by receiving, processing, verifying, and reconciling invoices in GP software.
--Code transactions to their proper GL account 
+-Code transactions to their proper GL accounts 
 - Respond to all vendor inquiries regarding payments
 - Create Invoices and match them with Purchase orders in SAP CONCUR or/and in GP
 - Manage employees'travel and other expenses in CONCUR
